@@ -6,7 +6,7 @@ ms.service: powerbi
 ms.author: davidiseminger
 ms.date: 05/10/2019
 ms.topic: hub-page
-
+  
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -28,7 +28,7 @@ ms.topic: hub-page
                                 <img src="media/logo_power-bi.svg" alt="" data-linktype="absolute-path" class="x-hidden-focus" style="position: relative; top: 6px;">
                               </div>
                             </div>
-                            Getting started
+                            Getting started consuming Power BI
                           </h3>
                           <ul class="noBullet" style="margin: 24px;">
                               <li style="display: flex; justify-content: space-between;">
