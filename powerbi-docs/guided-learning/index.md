@@ -30,12 +30,29 @@ ms.topic: hub-page
                             </div>
                             Getting started consuming Power BI
                           </h3>
-                          <ul class="noBullet" style="margin: 24px;">
+ <ul class="noBullet" style="margin: 24px;">
                               <li style="display: flex; justify-content: space-between;">
-                                <a class="barLink" href="https://docs.microsoft.com/learn/paths/create-use-analytics-reports-power-bi/">Get started with Power BI using Microsoft Learn</a>
+                                <a class="barLink" href="https://docs.microsoft.com/learn/modules/explore-power-bi-service/index">Consumer: Explore what Power BI can do for you</a>
+                                <span style="margin-left: 32px; align-self: center;">1hr 35m</span>
+                              </li>  
+                               <li style="display: flex; justify-content: space-between;">
+                                <a class="barLink" href="https://docs.microsoft.com/learn/modules/analyze-data-power-bi/index">Consumer: Analyze data with Power BI</a>
+                                <span style="margin-left: 32px; align-self: center;">1hr</span>
+                              </li>  
+                              
+                               <li style="display: flex; justify-content: space-between;">
+                                <a class="barLink" href="https://docs.microsoft.com/learn/modules/get-started-with-power-bi/">Designer: Get started building with Power BI</a>
                                 <span style="margin-left: 32px; align-self: center;">47m</span>
-                              </li>                              
-                          </ul>
+                              </li>
+                                 <li style="display: flex; justify-content: space-between;">
+                                <a class="barLink" href="https://docs.microsoft.com/learn/modules/build-your-first-power-bi-report/index">Designer: Create and share your first Power BI report</a>
+                                <span style="margin-left: 32px; align-self: center;">55m</span>
+                              </li>  
+                              
+                          </ul> 
+ 
+ 
+ 
                       </div>
                     </div>
                 </div>
