@@ -34,11 +34,11 @@ ms.topic: hub-page
                           <ul class="noBullet" style="margin: 24px;">
                               <li style="display: flex; justify-content: space-between;">
                                 <a class="barLink" href="https://docs.microsoft.com/learn/modules/explore-power-bi-service/1-why-power-bi">What can I do with Power BI service as a consumer?</a>
-                                <span style="margin-left: 32px; align-self: center;">15 min</span>
+                                <span style="margin-left: 32px; align-self: center;">12 min</span>
                               </li>      
                               <li style="display: flex; justify-content: space-between;">
                                 <a class="barLink" href="https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/2-find-content">View content in Power BI service</a>
-                                <span style="margin-left: 32px; align-self: center;">15 min</span>
+                                <span style="margin-left: 32px; align-self: center;">10 min</span>
                               </li>     
                               <li style="display: flex; justify-content: space-between;">
                                 <a class="barLink" href="https://docs.microsoft.com/learn/modules/explore-power-bi-service/3-navigate-content">Explore with dashboards, reports, and apps in Power BI</a>
@@ -50,7 +50,7 @@ ms.topic: hub-page
                               </li>
                               <li style="display: flex; justify-content: space-between;">
                                 <a class="barLink" href="https://docs.microsoft.com/learn/modules/explore-power-bi-service/5-lab-1">Find and view dashboards and reports</a>
-                                <span style="margin-left: 32px; align-self: center;">25 min</span>
+                                <span style="margin-left: 32px; align-self: center;">7 min</span>
                               </li>
                           </ul>
                       </div>
@@ -361,11 +361,11 @@ ms.topic: hub-page
                               </li>
                               <li style="display: flex; justify-content: space-between;">
                                 <a class="barLink" href="https://docs.microsoft.com/learn/modules/publish-share-power-bi/2-publish-reports">Publish Power BI Desktop reports</a>
-                                <span style="margin-left: 32px; align-self: center;">5 min</span>
+                                <span style="margin-left: 32px; align-self: center;">6 min</span>
                               </li>
                               <li style="display: flex; justify-content: space-between;">
                                 <a class="barLink" href="https://docs.microsoft.com/learn/modules/publish-share-power-bi/3-print-export-reports">Print and export dashboards and reports</a>
-                                <span style="margin-left: 32px; align-self: center;">5 min</span>
+                                <span style="margin-left: 32px; align-self: center;">7 min</span>
                               </li>
                               <li style="display: flex; justify-content: space-between;">
                                 <a class="barLink" href="https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/5-power-bi-mobile">Introducing Power BI Mobile</a>
@@ -373,19 +373,19 @@ ms.topic: hub-page
                               </li>
                               <li style="display: flex; justify-content: space-between;">
                                 <a class="barLink" href="https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/6-create-groups">Create workspaces in Power BI</a>
-                                <span style="margin-left: 32px; align-self: center;">5 min</span>
+                                <span style="margin-left: 32px; align-self: center;">6 min</span>
                               </li>
                               <li style="display: flex; justify-content: space-between;">
                                 <a class="barLink" href="https://docs.microsoft.com/learn/modules/publish-share-power-bi/7-build-apps">Build apps</a>
-                                <span style="margin-left: 32px; align-self: center;">5 min</span>
+                                <span style="margin-left: 32px; align-self: center;">7 min</span>
                               </li>
                               <li style="display: flex; justify-content: space-between;">
                                 <a class="barLink" href="https://docs.microsoft.com/learn/modules/publish-share-power-bi/8-use-apps">Use apps</a>
-                                <span style="margin-left: 32px; align-self: center;">5 min</span>
+                                <span style="margin-left: 32px; align-self: center;">6 min</span>
                               </li>
                               <li style="display: flex; justify-content: space-between;">
                                 <a class="barLink" href="https://docs.microsoft.com/learn/modules/publish-share-power-bi/10-integrate-onedrive">Integrate OneDrive for Business with Power BI</a>
-                                <span style="margin-left: 32px; align-self: center;">5 min</span>
+                                <span style="margin-left: 32px; align-self: center;">7 min</span>
                               </li>
                               <li style="display: flex; justify-content: space-between;">
                                 <a class="barLink" href="https://docs.microsoft.com/learn/modules/publish-share-power-bi/11-publish-web">Publish to web</a>
